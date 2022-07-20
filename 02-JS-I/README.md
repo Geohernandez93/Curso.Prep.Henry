@@ -237,6 +237,7 @@ function logHola() {
     console.log('hola!');
 }
 
+
 logHola();
 ```
 
